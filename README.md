@@ -16,7 +16,8 @@ To provide a collaborative ramp up opportunity for the community that might not 
 	- Introduce the first exercise and help people transition to coding
 
 ## Topics
-1. new to programming 
+1. new to programming [bitly](topics/new-to-programming.md)
+> when do I use if, for, switch, var?
 2. new to javascript
 3. js in node 
 4. document object model
