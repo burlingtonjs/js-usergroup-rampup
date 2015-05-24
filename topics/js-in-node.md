@@ -8,7 +8,7 @@
 	- npm
 	- some packages don't work in browser (setImmediate, fs, etc.)
 
-**Assumes: ** You already understand [basic JavaScript](new-to-js.md). 
+**Assumes:** You already understand [basic JavaScript](new-to-js.md). 
 
 ## Exercises: 
 TBD
