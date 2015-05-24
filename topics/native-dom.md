@@ -12,7 +12,7 @@
 	- manipulating attributes
 	- manipulating classes
 
-**Assumes: ** You already understand [basic JavaScript](new-to-js.md). 
+**Assumes:** You already understand [basic JavaScript](new-to-js.md). 
 
 ## Exercises: 
 TBD
