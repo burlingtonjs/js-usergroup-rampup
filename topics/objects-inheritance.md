@@ -4,7 +4,7 @@
 - Learn the power of objects and inheritance 
 	- new, {}, Object.create
 	- constructor functions
-	- prototypal inheritance
+	- prototypal inheritance, mixin pattern
 
 **Assumes:** You already understand [basic JavaScript](new-to-js.md). 
 
@@ -56,4 +56,14 @@ var myFooTwo = new Foo();
 
 myFooOne.color === 'red'; // returns true
 myFooTwo.color === 'red'; // returns true
+```
+
+### Exercise 5: Use the mixin pattern to inherit properties from multiple sources.
+
+Create two constructor functions, `Flying` and `Singing`. Create a new object `bird` that inherits from both of these functions. `Flying` should add the function `fly()` and `Singing` should add the function `sing()`.
+
+```javascript
+...
+bird.fly(); // prints "flap flap"
+bird.sing(); // prints "chirp chirp"
 ```
