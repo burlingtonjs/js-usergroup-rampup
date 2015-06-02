@@ -28,12 +28,12 @@ Modify `eat()`, `sleep()`, and `work()` to use `Promises` instead of nested call
 
 Hint: Each function should return a `Promise` so that the next _composed_ function is called once the `Promise` is _resolved_.
 
-### Exercise 3. [WEEKEND!] (http://jsfiddle.net/donniec/146ejave/1/)
-Use `.map()` to create an array of `Promises` for every weekday, Monday through Friday. For each day, print out the day, and print out the day's activities. When all the activities of the week are done, print `WEEKEND!`. 
+### Exercise 3. [blah, blah, blah, WEEKEND!] (http://jsfiddle.net/donniec/qnquxh16/)
+Use `.map()` to create an array of `Promises` for every weekday, Monday through Friday. Print out the day, and when those are done, print `WEEKEND!`. 
 
 Hint: `Promise.all()` is like `.then()` but it takes an array of `Promises` and it returns its own `Promise`, which is _resolved_ when all the `Promises` in the array are resolved, regardless of order.
 
-### Exercise 4. [Print out the Week in Order] (http://jsfiddle.net/donniec/vgd41yvm/)
+### Exercise 4. [Print out the Days of the Week in Order] (http://jsfiddle.net/donniec/vgd41yvm/1/)
 One of the great things about `Promises` is that they can be essentially _resolved before_ they're used. If you create a chain of `.then()` calls, each one returning a `Promise` to the next, if a `Promise` in the middle of that chain is resolved ahead of time, the order of composed functions is still preserved, and we won't have to wait on the already-resovled promise.
 
-Use `.reduce()` to create a single chain of `Promises` that will print out in order. When every day in the week is done, print `WEEKEND!`.
+Use `.reduce()` to create a single chain of `Promises` that will print out the days of the week in order. When those are done, print `WEEKEND!`.
