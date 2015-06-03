@@ -61,11 +61,15 @@ Given the following html page,
   <body>
     <div class="heading-text primary">My Website</div>
     <div class="heading-text secondary">The best site ever.</div>
-    <div class="body-text primary">I love web development.</div>
+    <div class="body-text primary">I love web development.
+		<div class="child-text">It's fun</div>
+	</div>
     <div class="body-text secondary">It's magical.</div>
   </body>
 </html>
 ```
 
 ...find the page element that has both the class `heading-text` and the class `secondary` and add the class `highlighted`. This will cause that line to become highlighted in yellow. **Only one line should be highlighted!**
+
+...now find the page element that has both the class `body-text` and the class `primary` with a child element that has class `child-text`. Add the class `highlighted`. This will cause that line to become highlighted. **You should now have two lines highlighted.**
 
