@@ -9,7 +9,7 @@
 
 **Assumes:** You already understand [basic JavaScript](new-to-js.md). 
 
-* Jake Archibald wrote a great article for HTML5 Rocks about native JavaScript Promises. Read the whole thing when you get a chance.
+* Jake Archibald wrote a [great article](http://www.html5rocks.com/en/tutorials/es6/promises/) for HTML5 Rocks about native JavaScript Promises. Read the whole thing when you get a chance.
 * [Promise API Reference from HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-api)
 
 ## Exercises:
@@ -21,7 +21,7 @@ Each of these functions can take a callback function that will be called when th
 Use callbacks to fix the code.
 
 ### Exercise 2.  [Use Promises to fix Callback Hell](http://jsfiddle.net/donniec/sfwxzybs/1/)
-What if you wanted to add another function, `bathe()`, or to change the order of output? Callback Hell can quickly become tedious. Thankfully, there is a better way: `Promises` are a way to reason about asynchony in a synchronous way.  
+What if you wanted to add another function, `bathe()`, or to change the order of output? Callback Hell can quickly become tedious. Thankfully, there is a better way: `Promises` are a way to reason about asynchrony in a synchronous way.  
 A `Promise` is constructed with a callback function that takes two parameters, `resolve` and `reject`. When the `Promise` finishes doing whatever/whenever, it calls `resolve()` (or `reject()` if an error occurred). Functions that can handle promises are _composed_ (rather than _nested_).
 
 Modify `eat()`, `sleep()`, and `work()` to use `Promises` instead of nested callbacks.
