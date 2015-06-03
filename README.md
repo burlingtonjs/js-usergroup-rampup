@@ -1,7 +1,7 @@
 # JS User Group Ramp Up
 
 ##Goals
-To provide a collaborative ramp up opportunity for the community that might not know where to start and to cover introductory topics that might not otherwise be covered by the normal presetation format of the group.  
+To provide a collaborative ramp up opportunity for the community that might not know where to start and to cover introductory topics that might not otherwise be covered by the normal presentation format of the group.  
 
 ##Format
 - Setup 5-8 numbered tables
