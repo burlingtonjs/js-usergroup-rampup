@@ -16,4 +16,4 @@ Here is a good [link](http://www.codecademy.com/glossary/javascript) summarizing
 
 ## Exercises: 
 
-And a number of good exercises [here](http://www.codecademy.com/en/tracks/javascript). 
+And a number of good exercises [here](https://codecademy.com/learn/learn-javascript). 
