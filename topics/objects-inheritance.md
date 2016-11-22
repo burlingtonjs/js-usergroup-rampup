@@ -79,7 +79,7 @@ assert(object2.color === 'blue', 'Exercise 3 object2');
 
 ### Exercise 4: Override prototype inheritance in an object.
 
-In the following code, we use prototypal inheritance to give two objects the property `color` which equals `'yellow'`. By adding only one line of code **after the objects have been created**, make it so that one object has the color `'green'` and the other color remains `'red'`. 
+In the following code, we use prototypal inheritance to give two objects the property `color` which equals `'yellow'`. By adding only one line of code **after the objects have been created**, make it so that one object has the color `'blue'` and the other color remains `'yellow'`. 
 
 ```javascript
 function assert(val, name) { if (val) return console.log(name + ' is correct!'); console.log(name + ' is incorrect.'); }
