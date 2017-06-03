@@ -1,17 +1,17 @@
 # Array Methods
 
-##Goals: 
-- Learn the power of array manipulation 
+## Goals: 
+- Learn the power of array manipulation
 	- slice and splice
 	- push, pop, shift, unshift
 	- arguments (almost an array)
 	- map, filter, reduce
 
-**Assumes:** You already understand [basic JavaScript](new-to-js.md). 
+**Assumes:** You already understand [basic JavaScript](new-to-js.md).
 
-## Exercises: 
+## Exercises:
 You are given some membership data: Name, RSVP date, Member Since Date
-```js 
+```js
 var data = [
     ['Alex','05/12/2015','07/28/2013'],
     ['Brett Chalupa','04/21/2015','03/13/2013'],
@@ -55,5 +55,3 @@ what if you wanted to answer the same question but using only the first 15 items
 hint: consider `reduce` when you need to reduce multiple items into a single item
 
 #### Exercise 3: What percentage of RSVPs were within 1 week of the first announcement vs 1 week of the actual event?
-
-

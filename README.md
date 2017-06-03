@@ -1,9 +1,9 @@
 # JS User Group Ramp Up
 
 ##Goals
-To provide a collaborative ramp up opportunity for the community that might not know where to start and to cover introductory topics that might not otherwise be covered by the normal presentation format of the group.  
+To provide a collaborative ramp up opportunity for the community that might not know where to start and to cover introductory topics that might not otherwise be covered by the normal presentation format of the group.
 
-##Format
+## Format
 - Setup 8-10 tables of 6 chairs each
 - As people arrive, determine which topic / role they are there for
   - if they are first, allocate a table to that topic
@@ -12,7 +12,7 @@ To provide a collaborative ramp up opportunity for the community that might not 
 - Mentors
 	- Learn each others names
 	- Familiarize with the goals of the topic and the level of the members of the group
-	- Encourage people to split into pairs 
+	- Encourage people to split into pairs
 	- Introduce the first exercise and help people transition to coding
 
 ## Topics
@@ -35,4 +35,4 @@ To provide a collaborative ramp up opportunity for the community that might not 
 > how do I do inheritance in JavaScript?
 
 7. callbacks and promises [bit.ly/1JNbDSm](topics/promises.md)
-> what is callback hell? what is a promise? 
+> what is callback hell? what is a promise?

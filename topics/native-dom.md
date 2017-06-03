@@ -1,6 +1,6 @@
 # Native Document Object Model
 
-##Goals: 
+## Goals: 
 - Introduce native JavaScript for manipulating the Document Object Model
 	- createElement
 	- appendChild
@@ -12,9 +12,9 @@
 	- manipulating attributes
 	- manipulating classes
 
-**Assumes:** You already understand [basic JavaScript](new-to-js.md). 
+**Assumes:** You already understand [basic JavaScript](new-to-js.md).
 
-## Exercises: 
+## Exercises:
 
 ### Exercise 1: Add some `h1` text to a page's DOM
 
@@ -72,4 +72,3 @@ Given the following html page,
 ...find the page element that has both the class `heading-text` and the class `secondary` and add the class `highlighted`. This will cause that line to become highlighted in yellow. **Only one line should be highlighted!**
 
 ...now find the page element that has both the class `body-text` and the class `primary` with a child element that has class `child-text`. Add the class `highlighted`. This will cause that line to become highlighted. **You should now have two lines highlighted.**
-

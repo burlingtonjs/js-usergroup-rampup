@@ -1,13 +1,13 @@
 # Callbacks and Promises
 
-##Goals: 
+## Goals: 
 - Learn the power of promises
 	- callback hell
 	- promises
 	- .then
 	- .all
 
-**Assumes:** You already understand [basic JavaScript](new-to-js.md). 
+**Assumes:** You already understand [basic JavaScript](new-to-js.md).
 
 * Jake Archibald wrote a [great article](http://www.html5rocks.com/en/tutorials/es6/promises/) for HTML5 Rocks about native JavaScript Promises. Read the whole thing when you get a chance.
 * [Promise API Reference from HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-api)
@@ -44,4 +44,3 @@ Using ES6 Generators and Promises, we can ensure order without using reduce.
 Use the `spawn()` helper function to print out the days of the week in order. When those are done, print `WEEKEND!`.
 
 In ES7, the helper function won't be necessary and will be replaced with `async` functions.
-

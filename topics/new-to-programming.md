@@ -1,6 +1,6 @@
 # New to JavaScript
 
-##Goals: 
+## Goals: 
 - Introduce JavaScript
 	- if
 	- flow control
@@ -12,8 +12,8 @@
 
 ## Reference
 
-Here is a good [link](http://www.codecademy.com/glossary/javascript) summarizing javascript concepts. 
+Here is a good [link](http://www.codecademy.com/glossary/javascript) summarizing javascript concepts.
 
-## Exercises: 
+## Exercises:
 
-And a number of good exercises [here](https://codecademy.com/learn/learn-javascript). 
+And a number of good exercises [here](https://codecademy.com/learn/learn-javascript).

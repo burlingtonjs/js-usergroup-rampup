@@ -1,20 +1,20 @@
 # Objects and Inheritance
 
-##Goals: 
-- Learn the power of objects and inheritance 
+## Goals: 
+- Learn the power of objects and inheritance
 	- new, {}, Object.create
 	- constructor functions
 	- prototypal inheritance, mixin pattern
 
-**Assumes:** You already understand [basic JavaScript](new-to-js.md). 
+**Assumes:** You already understand [basic JavaScript](new-to-js.md).
 
-## Exercises: 
+## Exercises:
 
 I suggest you run these using a JavaScript REPL such as [repl.it](https://repl.it/languages/javascript) or [node](https://nodejs.org/).
 
 Use the [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) for help as you go!
 
-Each exercise ends with a call to `assert()`. That function will print `correct!` to the console if the exercise is successful. 
+Each exercise ends with a call to `assert()`. That function will print `correct!` to the console if the exercise is successful.
 
 ### Exercise 1: Create an object that has a property using three different techniques.
 
@@ -79,7 +79,7 @@ assert(object2.color === 'blue', 'Exercise 3 object2');
 
 ### Exercise 4: Override prototype inheritance in an object.
 
-In the following code, we use prototypal inheritance to give two objects the property `color` which equals `'yellow'`. By adding only one line of code **after the objects have been created**, make it so that one object has the color `'blue'` and the other color remains `'yellow'`. 
+In the following code, we use prototypal inheritance to give two objects the property `color` which equals `'yellow'`. By adding only one line of code **after the objects have been created**, make it so that one object has the color `'blue'` and the other color remains `'yellow'`.
 
 ```javascript
 function assert(val, name) { if (val) return console.log(name + ' is correct!'); console.log(name + ' is incorrect.'); }
@@ -98,7 +98,7 @@ assert(object2.color === 'yellow', 'Exercise 4 object2');
 
 ### Exercise 5: Use the mixin pattern to inherit properties from multiple sources.
 
-Create two constructor functions, `Flying` and `Singing`. Create a new object `bird` that inherits from both of these functions. `Flying` should add the function `fly()` and `Singing` should add the function `sing()`. 
+Create two constructor functions, `Flying` and `Singing`. Create a new object `bird` that inherits from both of these functions. `Flying` should add the function `fly()` and `Singing` should add the function `sing()`.
 
 The mixin pattern allows a form of inheritence without using `prototype` or `new` and as a result can sometimes be much easier to understand, but it is not persistent like prototypal inheritance.
 
