@@ -1,9 +1,9 @@
 # JS User Group Ramp Up
 
-##Goals
+## Goals
 To provide a collaborative ramp up opportunity for the community that might not know where to start and to cover introductory topics that might not otherwise be covered by the normal presentation format of the group.  
 
-##Format
+## Format
 - Setup 8-10 tables of 6 chairs each
 - As people arrive, determine which topic / role they are there for
   - if they are first, allocate a table to that topic
