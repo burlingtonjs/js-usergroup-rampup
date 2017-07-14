@@ -3,7 +3,7 @@
 ### Get Started
 Reference Url: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-When working in the console, not that `Shift + Enter` will allow you to write your code on multiple lines. Copy this code and paste it in your console.
+When working in the console, note that `Shift + Enter` will allow you to write your code on multiple lines. Copy this code and paste it in your console.
 
 ```js
 var names =
