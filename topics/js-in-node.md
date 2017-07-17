@@ -20,4 +20,6 @@
 
 ## Exercises:
 
-come up with some exercises that you think would be appropriate for the next group.
+- [nodeschool.io workshoppers](https://nodeschool.io/#workshoppers)
+
+or come up with some exercises that you think would be appropriate for the next group.
