@@ -34,7 +34,7 @@ To provide a collaborative ramp up opportunity for the community that might not 
 6. objects and inheritance [bit.ly/1F9izUn](topics/objects-inheritance.md)
 > how do I do inheritance in JavaScript?
 
-7. *NEW* into to es6 [http://bit.ly/2uwgjeL](topics/es2015.md) 
+7. **NEW** intro to es6 [http://bit.ly/2uwgjeL](topics/es2015.md) 
 > const, let, template strings, arrow functions
 
 8. callbacks and promises [bit.ly/1JNbDSm](topics/promises.md)
