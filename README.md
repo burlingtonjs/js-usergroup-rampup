@@ -28,7 +28,7 @@ To provide a collaborative ramp up opportunity for the community that might not 
 4. [native DOM](topics/native-dom.md)
 > what do you mean I don't need jQuery anymore?
 
-5. [array methods](topics/array-methods.md)
+5. **UPDATED** [array methods](topics/array-methods.md)
 > when do I use slice, splice, filter, map, reduce?
 
 6. [objects and inheritance](topics/objects-inheritance.md)
